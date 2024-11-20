@@ -1,0 +1,11 @@
+How cool could it be if you could turn your Ambernic RG35XX into a wireless bluetooth joystick by simply loading a program ?
+I dont think I have the knowlege to do this by my own.
+My first try was to identify the pressed buttons on a PyGame Script.
+But how can I go on ?
+- See if it is possible to use internal bluetooth chip as a signal ?
+- Make it be recognized by a PC as a joystick ?
+- Send the signals ?
+
+I am looking for help here as I am not a python guy.
+
+Best regards !!
